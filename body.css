@@ -1,0 +1,24 @@
+html  {
+    margin: auto !important;
+    padding: none !important;
+}
+body {
+    margin: auto !important;
+    padding: none !important;
+    font-family: Montserrat, sans-serif;
+}
+
+button {
+    border: none !important;
+}
+
+@media (max-width: 430px) {
+    h1 {
+        font-size: 150% !important;
+    }
+
+    .splineContainer {
+        width: 100% !important;
+        height: 100vh !important;
+    }
+}

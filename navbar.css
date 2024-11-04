@@ -1,0 +1,21 @@
+.topbanner:hover {
+    transition: ease-in-out 0.8s;
+    transform: scale(1.1);
+}
+
+.navlinks:hover {
+    transition: ease-in-out 0.3s;
+    transform: scale(1.1);
+}
+
+@media (max-width: 430px) {
+    .navlinks {
+        font-size: 80% !important;
+        padding: 3%;
+    }
+
+    .topbanner {
+        width: 30% !important;
+    }
+    
+}
