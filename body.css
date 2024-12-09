@@ -22,3 +22,7 @@ button {
         height: 100vh !important;
     }
 }
+
+.titleScreen {
+    font-size: 0.0001px;
+}
