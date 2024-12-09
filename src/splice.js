@@ -1,4 +1,3 @@
-import SplineElement from "./spline";
 
 const splineContainer = {
   display: "flex",
@@ -11,7 +10,7 @@ const splineContainer = {
 function SpliceElement() {
   return (
     <div style={splineContainer} className="splineContainer">
-      <SplineElement />
+      <spline-viewer loading-anim-type="spinner-big-light" url="https://prod.spline.design/gEjwhpj6dNDva5Kh/scene.splinecode"></spline-viewer>
     </div>
   );
 }
