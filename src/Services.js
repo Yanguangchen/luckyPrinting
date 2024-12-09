@@ -55,11 +55,6 @@ function Services() {
             allow="fullscreen"
           ></iframe>
         </div>
-        <a
-          href="https://www.canva.com/design/DAGJy0HHG8g/nkv5q39mJ-lTsZu1rAViHQ/view?utm_content=DAGJy0HHG8g&utm_campaign=designshare&utm_medium=embeds&utm_source=link"
-          target="_blank"
-          rel="noopener"
-        ></a>
       </div>
     </>
   );
