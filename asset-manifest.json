@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.19d60ee1.js",
+    "main.js": "/static/js/main.6aaee947.js",
     "static/media/Grid10.mp4": "/static/media/Grid10.7138d441d648cedda710.mp4",
     "static/media/Grid9.mp4": "/static/media/Grid9.ee3da6fabdaf67c64f2f.mp4",
     "static/media/Grid5.m4v": "/static/media/Grid5.ed3f3aa32c22519492c2.m4v",
@@ -15,9 +15,9 @@
     "static/media/Grid6.m4v": "/static/media/Grid6.5d992e7930417400ffa1.m4v",
     "static/media/webwizards.webp": "/static/media/webwizards.8b59ebbb4a399037f1fd.webp",
     "index.html": "/index.html",
-    "main.19d60ee1.js.map": "/static/js/main.19d60ee1.js.map"
+    "main.6aaee947.js.map": "/static/js/main.6aaee947.js.map"
   },
   "entrypoints": [
-    "static/js/main.19d60ee1.js"
+    "static/js/main.6aaee947.js"
   ]
 }
