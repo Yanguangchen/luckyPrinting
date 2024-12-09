@@ -1,22 +1,22 @@
 {
-    "@context": "http://schema.org",
-    "@type": "Printing shop",
-    "name": "Lucky Printing and stationary",
-    "description": "Discover cheap, affordable printing service at 1 Roxy square",
-    "url": "https://luckyprinting.github.io/LuckyPrinting/",
-    "logo": "%PUBLIC_URL%/icon.png",
-    "telephone": "428769",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "1 Roxy Square, 50 East Coast Road",
-      "addressLocality": "Singapore",
-      "postalCode": "",
-      "addressCountry": "SG"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": "",
-      "longitude": ""
-    },
-    "sameAs": []
-  }
+  "@context": "http://schema.org",
+  "@type": "Printing shop",
+  "name": "Lucky Printing and stationary",
+  "description": "Discover cheap, affordable printing service at 1 Roxy square",
+  "url": "https://luckyprinting.online",
+  "logo": "%PUBLIC_URL%/icon.png",
+  "telephone": "428769",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1 Roxy Square, 50 East Coast Road",
+    "addressLocality": "Singapore",
+    "postalCode": "",
+    "addressCountry": "SG"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "",
+    "longitude": ""
+  },
+  "sameAs": []
+}
