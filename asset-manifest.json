@@ -1,14 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.929ae9b2.js",
-    "static/js/208.d8f88086.chunk.js": "/static/js/208.d8f88086.chunk.js",
-    "static/js/293.e384df69.chunk.js": "/static/js/293.e384df69.chunk.js",
-    "static/js/917.49508139.chunk.js": "/static/js/917.49508139.chunk.js",
-    "static/js/516.87ecf5ad.chunk.js": "/static/js/516.87ecf5ad.chunk.js",
-    "static/js/519.09c6a779.chunk.js": "/static/js/519.09c6a779.chunk.js",
-    "static/js/946.473f9975.chunk.js": "/static/js/946.473f9975.chunk.js",
-    "static/js/160.8de45626.chunk.js": "/static/js/160.8de45626.chunk.js",
-    "static/js/23.c9a08254.chunk.js": "/static/js/23.c9a08254.chunk.js",
+    "main.js": "/static/js/main.19d60ee1.js",
     "static/media/Grid10.mp4": "/static/media/Grid10.7138d441d648cedda710.mp4",
     "static/media/Grid9.mp4": "/static/media/Grid9.ee3da6fabdaf67c64f2f.mp4",
     "static/media/Grid5.m4v": "/static/media/Grid5.ed3f3aa32c22519492c2.m4v",
@@ -23,17 +15,9 @@
     "static/media/Grid6.m4v": "/static/media/Grid6.5d992e7930417400ffa1.m4v",
     "static/media/webwizards.webp": "/static/media/webwizards.8b59ebbb4a399037f1fd.webp",
     "index.html": "/index.html",
-    "main.929ae9b2.js.map": "/static/js/main.929ae9b2.js.map",
-    "208.d8f88086.chunk.js.map": "/static/js/208.d8f88086.chunk.js.map",
-    "293.e384df69.chunk.js.map": "/static/js/293.e384df69.chunk.js.map",
-    "917.49508139.chunk.js.map": "/static/js/917.49508139.chunk.js.map",
-    "516.87ecf5ad.chunk.js.map": "/static/js/516.87ecf5ad.chunk.js.map",
-    "519.09c6a779.chunk.js.map": "/static/js/519.09c6a779.chunk.js.map",
-    "946.473f9975.chunk.js.map": "/static/js/946.473f9975.chunk.js.map",
-    "160.8de45626.chunk.js.map": "/static/js/160.8de45626.chunk.js.map",
-    "23.c9a08254.chunk.js.map": "/static/js/23.c9a08254.chunk.js.map"
+    "main.19d60ee1.js.map": "/static/js/main.19d60ee1.js.map"
   },
   "entrypoints": [
-    "static/js/main.929ae9b2.js"
+    "static/js/main.19d60ee1.js"
   ]
 }
